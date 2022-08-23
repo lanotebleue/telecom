@@ -1,2 +1,2 @@
 # telecom
-Study of the connection between client churn at a telecom company
+Study of client churn at a telecom company
